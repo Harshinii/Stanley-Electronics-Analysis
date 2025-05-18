@@ -27,44 +27,44 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
  
 # Insights Deep Dive
 Sales Performance: 
-•	Monthly Revenue Trends: Sales peak consistently around Q4, likely driven by holiday and promotional periods.
-•	Currency Volatility: Transactions in GBP and EUR have notable revenue fluctuations due to currency exchange rate impacts.
-•	Order Volume vs. Revenue: While order volume is stable across time, revenue varies more—indicating product mix shifts or pricing effects.
+1.	Monthly Revenue Trends: Sales peak consistently around Q4, likely driven by holiday and promotional periods.
+2.	Currency Volatility: Transactions in GBP and EUR have notable revenue fluctuations due to currency exchange rate impacts.
+3.	Order Volume vs. Revenue: While order volume is stable across time, revenue varies more—indicating product mix shifts or pricing effects.
 
 ![ Sales Performance](<Sales Performance.png>)
  
 Product Level Performance:
-•	Top Categories: The Computers and Home Appliances categories account for over 60% of total revenue.
-•	High-Performing Products: Specific models in Contoso's MP3 Player line have outsized revenue contributions due to strong volume and price.
-•	Price vs. Cost Margins: Products generally maintain a margin above 50%, especially in accessories and smaller electronics.
-•	Underperformers: Products in Accessories and Software categories show high volume but lower revenue contributions, suggesting bundling or promotional use.
+1.	Top Categories: The Computers and Home Appliances categories account for over 60% of total revenue.
+2.	High-Performing Products: Specific models in Contoso's MP3 Player line have outsized revenue contributions due to strong volume and price.
+3.	Price vs. Cost Margins: Products generally maintain a margin above 50%, especially in accessories and smaller electronics.
+4.	Underperformers: Products in Accessories and Software categories show high volume but lower revenue contributions, suggesting bundling or promotional use.
 
 ![Product](<Products Analysis.png>)
  
 Customer Segmentation:
-•	Age Segmentation: Customers aged 45+ contribute the most to revenue, followed by the 25–34 age group.
-•	Gender Neutrality: No strong skew in purchasing between male and female customers; spending is evenly distributed.
-•	Repeat Buyers: Approximately 30% of customers are repeat purchasers, with significantly higher average order values.
-•	Buying Frequency: Customers aged 18-34 buy more frequently than other age groups and all customers mostly prefer buying in offline stores
+1.	Age Segmentation: Customers aged 45+ contribute the most to revenue, followed by the 25–34 age group.
+2.	Gender Neutrality: No strong skew in purchasing between male and female customers; spending is evenly distributed.
+3.	Repeat Buyers: Approximately 30% of customers are repeat purchasers, with significantly higher average order values.
+4.	Buying Frequency: Customers aged 18-34 buy more frequently than other age groups and all customers mostly prefer buying in offline stores
 
 ![Customer Analysis](<Customer Analysis.png>)
  
 Store Performance:
-•	Revenue by Size: Stores with more than 1,000 sq meters generate nearly double the revenue per store compared to smaller outlets.
-•	Best Performing Locations: Stores in Canada and United States lead in overall sales.
-•	Store Age Effect: Stores open for more than 10 years consistently perform better, suggesting local brand maturity drives sales.
+1.	Revenue by Size: Stores with more than 1,000 sq meters generate nearly double the revenue per store compared to smaller outlets.
+2.	Best Performing Locations: Stores in Canada and United States lead in overall sales.
+3.	Store Age Effect: Stores open for more than 10 years consistently perform better, suggesting local brand maturity drives sales.
 
 ![Stores](<Store Performance.png>)
  
 # Recommendations:
 Based on the insights and findings above, it is recommended that Stanley’s teams to consider the following:
-•	Focus on High-Margin Products: Invest in marketing and inventory of best-selling products in computers and home appliances categories.
-•	Expand Successful Stores: Consider upsizing or replicating successful large-format stores in high-performing regions.
-•	Enhance Customer Loyalty: Introduce loyalty programs to incentivize repeat purchases, especially for the 18-34 demographic.
-•	Strengthen Online Channel: There is scope to further develop the e-commerce platform, including targeted promotions based on geography and age segmentation to increase sales overall.
+1.	Focus on High-Margin Products: Invest in marketing and inventory of best-selling products in computers and home appliances categories.
+2.	Expand Successful Stores: Consider upsizing or replicating successful large-format stores in high-performing regions.
+3.	Enhance Customer Loyalty: Introduce loyalty programs to incentivize repeat purchases, especially for the 18-34 demographic.
+4.	Strengthen Online Channel: There is scope to further develop the e-commerce platform, including targeted promotions based on geography and age segmentation to increase sales overall.
 
 # Assumptions and Caveats:
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
-Assumption 1: missing country records were for customers based in the US, and were re-coded to be US citizens
-Assumption 2: customer birthdates were all assumed to be in mm/dd/yyyy formats despite the countries they belonged to.
-Assumption 3:  because 3% of the order date date column contained non-sensical dates, these were excluded from the analysis
+1. Assumption 1: missing country records were for customers based in the US, and were re-coded to be US citizens
+2. Assumption 2: customer birthdates were all assumed to be in mm/dd/yyyy formats despite the countries they belonged to.
+3. Assumption 3:  because 3% of the order date date column contained non-sensical dates, these were excluded from the analysis
