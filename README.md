@@ -45,13 +45,14 @@ Store Performance:
 •	Best Performing Locations: Stores in Canada and United States lead in overall sales.
 •	Store Age Effect: Stores open for more than 10 years consistently perform better, suggesting local brand maturity drives sales.
  
-#Recommendations:
+# Recommendations:
 Based on the insights and findings above, it is recommended that Stanley’s teams to consider the following:
 •	Focus on High-Margin Products: Invest in marketing and inventory of best-selling products in computers and home appliances categories.
 •	Expand Successful Stores: Consider upsizing or replicating successful large-format stores in high-performing regions.
 •	Enhance Customer Loyalty: Introduce loyalty programs to incentivize repeat purchases, especially for the 18-34 demographic.
 •	Strengthen Online Channel: There is scope to further develop the e-commerce platform, including targeted promotions based on geography and age segmentation to increase sales overall.
-#Assumptions and Caveats:
+
+# Assumptions and Caveats:
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 Assumption 1: missing country records were for customers based in the US, and were re-coded to be US citizens
 Assumption 2: customer birthdates were all assumed to be in mm/dd/yyyy formats despite the countries they belonged to.
