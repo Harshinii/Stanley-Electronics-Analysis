@@ -12,8 +12,8 @@ Insights and recommendations are provided on the following key areas:
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 Targeted SQL queries regarding various business questions can be found here [link].
 An interactive PowerBI dashboard used to report and explore the insights can be found here [link].
-#Data Structure & Initial Checks
 
+# Data Structure & Initial Checks
 The company’s main database structure as seen below consists of 5 tables: Sales, Customers, Products, Stores and Exchange Rates.
 
 ![ERD Diagram](ERD.png)
