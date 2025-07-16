@@ -9,9 +9,7 @@ Insights and recommendations are provided on the following key areas:
 3.	Customer segmentation: Insights on customer buying patterns by age, gender and region
 4.	Stores performance: Analysis of stores based on their age, size and region 
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
-Targeted SQL queries regarding various business questions can be found here [link].
-An interactive PowerBI dashboard used to report and explore the insights can be found here [link].
+SQL queries were used to inspect and clean the data for this analysis.
 
 # Data Structure & Initial Checks
 The company’s main database structure as seen below consists of 5 tables: Sales, Customers, Products, Stores and Exchange Rates.
